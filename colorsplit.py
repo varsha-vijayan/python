@@ -1,0 +1,6 @@
+user_list=input("enter the colors in the list :")
+print("\n")
+color_list=user_list.split(",")
+print("list:",color_list)
+print("the first color of the list is:",color_list[0])
+print("the last color of the list is:",color_list[-1])
